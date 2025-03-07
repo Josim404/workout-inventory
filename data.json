@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "name": "BENCH PRESS",
+            "muscle_group": "CHEST",
+            "equipment": ["Barbell", "Dumbbell", "Machine", "Smith Machine"]
+        },
+        {
+            "name": "INCLINE BENCH PRESS",
+            "muscle_group": "CHEST",
+            "equipment": ["Barbell", "Dumbbell", "Machine", "Smith Machine"]
+        },
+        {
+            "name": "SQUAT",
+            "muscle_group": "LEGS",
+            "equipment": ["Barbell", "Dumbbell", "Machine", "Smith Machine"]
+        },
+        {
+            "name": "DEADLIFT",
+            "muscle_group": "BACK",
+            "equipment": ["Barbell", "Trap Bar", "Dumbbell"]
+        },
+        {
+            "name": "PULL UP",
+            "muscle_group": "BACK",
+            "equipment": ["Bodyweight", "Assisted Machine", "Resistance Bands"]
+        },
+        {
+            "name": "OVERHEAD PRESS",
+            "muscle_group": "SHOULDERS",
+            "equipment": ["Barbell", "Dumbbell", "Machine", "Smith Machine"]
+        },
+        {
+            "name": "BICEP CURL",
+            "muscle_group": "BICEPS",
+            "equipment": ["Dumbbell", "Barbell", "EZ Curl Bar", "Cable", "Machine"]
+        },
+        {
+            "name": "PREACHER CURL",
+            "muscle_group": "BICEPS",
+            "equipment": ["Dumbbell", "Barbell", "EZ Curl Bar", "Machine"]
+        },
+        {
+            "name": "TRICEP DIP",
+            "muscle_group": "TRICEPS",
+            "equipment": ["Bodyweight", "Assisted Machine", "Dip Bars"]
+        },
+        {
+            "name": "LUNGES",
+            "muscle_group": "LEGS",
+            "equipment": ["Bodyweight", "Dumbbell", "Barbell", "Smith Machine"]
+        },
+        {
+            "name": "LEG PRESS",
+            "muscle_group": "LEGS",
+            "equipment": ["Machine"]
+        },
+        {
+            "name": "LEG EXTENSION",
+            "muscle_group": "LEGS",
+            "equipment": ["Machine"]
+        },
+        {
+            "name": "LEG CURL",
+            "muscle_group": "LEGS",
+            "equipment": ["Machine"]
+        },
+        {
+            "name": "PLANK",
+            "muscle_group": "CORE",
+            "equipment": ["Bodyweight", "Weighted Plate"]
+        },
+        {
+            "name": "CALF RAISE",
+            "muscle_group": "CALVES",
+            "equipment": ["Bodyweight", "Machine", "Smith Machine", "Dumbbell"]
+        },
+        {
+            "name": "PULL-UP",
+            "muscle_group": "BACK",
+            "equipment": ["Bodyweight", "Assisted Machine", "Resistance Bands"]
+        },
+        {
+            "name": "ASSISTED PULL UP",
+            "muscle_group": "BACK",
+            "equipment": ["Assisted Machine", "Resistance Bands"]
+        },
+        {
+            "name": "ROW",
+            "muscle_group": "BACK",
+            "equipment": ["Barbell", "Dumbbell", "Cable", "Machine"]
+        }
+    ]
+}
